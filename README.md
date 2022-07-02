@@ -104,8 +104,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DHANOLA&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tarik-Bhateja&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   </td>
 </tr>
 </table>
@@ -207,7 +206,6 @@
   
   <br>
   <p align="center">
-  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
 
