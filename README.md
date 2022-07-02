@@ -97,7 +97,7 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tarik-Bhateja&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" /> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarik-Bhateja1&theme=dark)](https://git.io/streak-stats)
 
 
   
@@ -178,7 +178,7 @@
   <img align="center" alt="Tarik Bhateja | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/tarik.bhateja.90">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+    <img align="center" alt="Tarik Bhateja | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
   
@@ -190,7 +190,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" />  
+  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" />  
 </p>
    
   
@@ -207,7 +207,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/main/github-user-contribution.svg" alt="snake"></center>
+  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/main/github-user-contribution.svg#gh-dark-mode-only" alt="snake"></center>
 </p>
 
 
