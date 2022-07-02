@@ -207,6 +207,7 @@
   
   <br>
   <p align="center">
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
 
