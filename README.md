@@ -195,7 +195,8 @@
   <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg>
 </p> -->
 
-
+<br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tarik-Bhateja&theme=elegant&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 ------
