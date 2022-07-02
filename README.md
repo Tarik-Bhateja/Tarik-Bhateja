@@ -7,7 +7,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 😎 &nbsp; Exploring new technologies and developing programming insights.
+- 😎 &nbsp; Exploring new technologies and developing programming skills.
 - 🎓 &nbsp; Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
 - 🌱 &nbsp; I’m currently learning **Data Structure**
 - 💬 &nbsp; Chat with me **https://wa.me/+918427699163**
