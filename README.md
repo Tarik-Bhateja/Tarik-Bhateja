@@ -180,14 +180,14 @@
   
   
   
+  <p align="center" >  
+ ![Snake animation](https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg)
+  </p>
   
-  
-  
-  
-  <br>
+<!--   <br>
   <p align="center">
-  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg></center>
-</p>
+  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg>
+</p> -->
 
 
 
