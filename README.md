@@ -9,7 +9,9 @@
 
 - 😎 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
-
+- 🌱 &nbsp; I’m currently learning **Data Structure**
+- 💬 &nbsp; Chat with me **https://wa.me/+918427699163**
+- 📫 &nbsp; Reach me at **tarik111b@gmail.com or tbhateja_be20@thapar.edu**
 
 <br>
 
