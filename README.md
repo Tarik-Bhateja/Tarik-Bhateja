@@ -151,8 +151,8 @@
 
 <br>
 <p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tarik-Bhateja&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarik-Bhateja&theme=dark">
+  </p>
 
 
 
