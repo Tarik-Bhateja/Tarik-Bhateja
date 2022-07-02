@@ -169,7 +169,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" >  </center>
+  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" >  
 </p>
    
   
@@ -179,7 +179,7 @@
   
   
   <p align="center" >   
-  <img src="[https://profile-counter.glitch.me/Tarik-Bhateja/count.svg](https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg)" theme="dark" >  </center>
+  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg" theme="dark" >  
 </p>
   
 <!--   <p align="center" >  
