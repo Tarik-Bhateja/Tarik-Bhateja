@@ -101,7 +101,7 @@
 
 
   
-</td>
+<!-- </td>
 
 <td width="50%" align="center">
 
@@ -111,7 +111,7 @@
 </table>
 
 <br>
-
+ -->
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-<br>
+<!-- <br>
 <p align="center">
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -139,7 +139,7 @@
     </a>
 </div>
 </p>
-
+ -->
 <br>
 
  <hr>
