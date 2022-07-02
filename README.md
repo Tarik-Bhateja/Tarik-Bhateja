@@ -169,7 +169,7 @@
     
 <!-- retro visitor counter -->  
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" />  </center>
+  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" >  </center>
 </p>
    
   
