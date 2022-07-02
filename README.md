@@ -97,7 +97,9 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tarik-Bhateja&theme=cobalt&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" /> -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tarik-Bhateja1&theme=dark)](https://git.io/streak-stats)
+  <p align="centre">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarik-Bhateja&theme=dark">
+  </p>
 
 
   
@@ -150,9 +152,7 @@
 
 
 <br>
-<p align="centre">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarik-Bhateja&theme=dark">
-  </p>
+
 
 
 
