@@ -7,7 +7,7 @@
 
 ### 💻 &nbsp;About Me 
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
+- 😎 &nbsp; Exploring new technologies and developing programming insights.
 - 🎓 &nbsp; Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
 
 
