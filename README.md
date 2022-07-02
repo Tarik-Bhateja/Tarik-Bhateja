@@ -178,11 +178,13 @@
   
   
   
+  <p align="center" >   
+  <img src="[https://profile-counter.glitch.me/Tarik-Bhateja/count.svg](https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg)" theme="dark" >  </center>
+</p>
   
-  
-  <p align="center" >  
+<!--   <p align="center" >  
  ![Snake animation](https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg)
-  </p>
+  </p> -->
   
 <!--   <br>
   <p align="center">
