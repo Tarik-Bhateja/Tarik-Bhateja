@@ -207,7 +207,7 @@
   
   <br>
   <p align="center">
-  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/main/github-user-contribution.svg" alt="snake"></center>
 </p>
 
 
