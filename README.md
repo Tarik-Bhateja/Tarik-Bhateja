@@ -4,7 +4,10 @@
 ### Hi there 👋
 
 ## I'm Tarik Bhateja.
-
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" >  
+<!--   <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg" theme="dark" >   -->
+</p>
 ### 💻 &nbsp;About Me 
 
 - 😎 &nbsp; Exploring new technologies and developing programming skills.
@@ -118,10 +121,7 @@
 </div>
     
 <!-- retro visitor counter -->  
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" >  
-  <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg" theme="dark" >  
-</p>
+
 ------
 
 [Tarik Bhateja](https://github.com/Tarik-Bhateja)
