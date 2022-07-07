@@ -15,9 +15,10 @@
 
 - 🎓 &nbsp; Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
 - 😎 &nbsp; Exploring new technologies and developing programming skills.
-- 🌱 &nbsp; I’m currently learning **Data Structure**
+- 🌱 &nbsp; I have a keen interest in **Data Structures and Algorithms** and I am currently working on **Machine learning and Computer Vision.** 
 - 💬 &nbsp; Chat with me **https://wa.me/+918427699163**
 - 📫 &nbsp; Reach me at **tarik111b@gmail.com or tbhateja_be20@thapar.edu**
+
 
 <br>
 
