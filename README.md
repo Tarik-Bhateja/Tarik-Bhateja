@@ -11,7 +11,7 @@
   <img src="https://profile-counter.glitch.me/Tarik-Bhateja/count.svg" theme="dark" >  
 <!--   <img src="https://github.com/Tarik-Bhateja/Tarik-Bhateja/blob/output/github-contribution-grid-snake.svg" theme="dark" >   -->
 </p>
-## 💻About Me 
+## About Me 💻 
 
 - 🎓 &nbsp; Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
 - 😎 &nbsp; Exploring new technologies and developing programming skills.
