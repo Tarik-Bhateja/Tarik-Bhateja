@@ -16,7 +16,6 @@
 
 - Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
 - Exploring new technologies and developing programming skills.
-- I have a keen interest in **Data Structures and Algorithms** , Currently, I am engaged in refining a tech-related product.
 - Chat with me **https://wa.me/+918427699163**
 - Reach me at **tarikbhateja.dev@gmail.com**
 
