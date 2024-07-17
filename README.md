@@ -18,7 +18,7 @@
 - Exploring new technologies and developing programming skills.
 - I have a keen interest in **Data Structures and Algorithms** , Currently, I am engaged in refining a tech-related product.
 - Chat with me **https://wa.me/+918427699163**
-- Reach me at **tarik111b@gmail.com or tbhateja_be20@thapar.edu**
+- Reach me at **tarikbhateja.dev@gmail.com**
 
 
 <br>
