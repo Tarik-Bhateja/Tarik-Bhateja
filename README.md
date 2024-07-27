@@ -14,7 +14,7 @@
 
 ### About Me 💻 
 
-- Computer Engineering Student at Thapar Institute of Engineering and Technology,Patiala.
+- Computer Engineering Graduate from Thapar Institute of Engineering and Technology,Patiala.
 - Exploring new technologies and developing programming skills.
 - Chat with me **https://wa.me/+918427699163**
 - Reach me at **tarikbhateja.dev@gmail.com**
